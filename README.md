@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Tchilross-blue)
 
-# Project Name
+# Crown clothing 
 
 > Description the project.
 
